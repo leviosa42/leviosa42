@@ -1,4 +1,21 @@
-<p align="left"> 
-  <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=leviosa42&show_icons=true" />
-  <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leviosa42&count_private=true&layout=compact&show_icons=true&langs_count=6" />
+<h2><p align="center">Statistics 📈</p></h2>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/leviosa42/leviosa42/main/profile-summary-card-output/github/0-profile-details.svg">
+  <img src="https://raw.githubusercontent.com/leviosa42/leviosa42/main/profile-summary-card-output/github/1-repos-per-language.svg">
+  <img src="https://raw.githubusercontent.com/leviosa42/leviosa42/main/profile-summary-card-output/github/3-stats.svg">
 </p>
+
+
+<h2><p align="center">My Dotfiles 📁</p></h2>
+
+<p align="center">
+  <a href="https://github.com/leviosa42/dotfiles">
+    <img src="https://github-link-card.s3.ap-northeast-1.amazonaws.com/leviosa42/dotfiles.png" width="460px">
+  </a>
+</p>
+
+```sh
+# Try it out!
+docker run --rm -it ghcr.io/leviosa42/dotfiles
+```
