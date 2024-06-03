@@ -52,13 +52,3 @@
 ```
 
     
-
----
-
-![](./4-productive-time.svg)
-
-```
-![](https://raw.githubusercontent.com/leviosa42/leviosa42/main/profile-summary-card-output/highcontrast/4-productive-time.svg)
-```
-
-    
