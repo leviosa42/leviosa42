@@ -52,3 +52,13 @@
 ```
 
     
+
+---
+
+![](./4-productive-time.svg)
+
+```
+![](https://raw.githubusercontent.com/leviosa42/leviosa42/main/profile-summary-card-output/aura/4-productive-time.svg)
+```
+
+    
